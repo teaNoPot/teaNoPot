@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Abderrahim - aka [teaNoPot] 👋
+
+## I'm a Writer, Developer and an AI enthusiast!
+- 📫 I’m currently working on an API that gives parents and guardians access to their kids' food schedule in school. 
+- 🌱 I’m currently learning Spring Boot, Hibernate and other elements of Java.
+- 👯 I’m looking to collaborate with other developers.
+- ✨ 2020 Goals: Join a fencing club, hone my skills as a developer.
+- ⚡ Fun fact: I love playing bowling and social games.
 
 <!--
 **teaNoPot/teaNoPot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
