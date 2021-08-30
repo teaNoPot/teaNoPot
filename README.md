@@ -1,4 +1,4 @@
-### Hi there, I'm Abderrahim - aka [teaNoPot] 👋
+### Hi there, I'm Abdel - aka [teaNoPot] 👋
 
 ## I'm a Writer, Developer and an AI enthusiast!
 - 📫 I’m currently working on an API that gives parents and guardians access to their kids' food schedule in school. 
