@@ -1,12 +1,10 @@
 ### Hi there, I'm Abdel - aka [teaNoPot] 👋
 
 ## I'm a Writer, Developer and an AI enthusiast!
-- 📫 I’m currently working on an API that gives parents and guardians access to their kids' food schedule in school. 
-- 🌱 I’m currently learning Spring Boot, Hibernate and other elements of Java.
+- 📫 I’m currently working as FullStack Dev (BACK:java, FRONT:typescript)
+- 🌱 I’m currently learning Algorithms/DS, C++ and JS.
 - 👯 I’m looking to collaborate with other developers.
-- ✨ 2020 Goals: Join a fencing club, hone my skills as a developer.
-- ⚡ Fun fact: I love playing bowling and social games.
-- 💬 About my username: teaNoPot is a reference to my maghrebian culture. Whenever we have a family/friends meeting we bring a pot of tea and drink (the very same tea time in london but in a traditional sense). Now since I drink alot of tea, I barely have the time to get my pot next to me so I put everything in a mug, thus the name teaNoPot.. yeah stupid and has nothing to do with my culture, I just wanted to make a link alright? SUE ME.
+- ⚡ Hobbies: I love playing bowling and league of legends.
 
 
 <!--
