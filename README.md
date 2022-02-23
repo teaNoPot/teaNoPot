@@ -4,7 +4,7 @@
 - 📫 I’m currently working as FullStack Dev (BACK:java, FRONT:typescript)
 - 🌱 I’m currently learning Algorithms/DS, C++ and JS.
 - 👯 I’m looking to collaborate with other developers.
-- ⚡ Hobbies: I love playing bowling and hate playing league of legends (iPlayAnyways).
+- ⚡ Hobbies: I love playing bowling and hate playing league of legends.
 
 
 <!--
