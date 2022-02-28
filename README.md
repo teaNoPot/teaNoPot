@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdel - aka [teaNoPot] 👋
 
-## I'm a Developer, Writer and an AI enthusiast!
+## I'm a Developer, Writer and AI enthusiast!
 - 📫 I’m currently working as FullStack Dev (BACK:java, FRONT:typescript)
 - 🌱 I’m currently learning Algorithms/DS, C++ and JS.
 - 👯 I’m looking to collaborate with other developers.
