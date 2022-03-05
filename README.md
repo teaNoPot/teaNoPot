@@ -4,7 +4,7 @@
 - 📫 I’m currently working as FullStack Dev (BACK:java, FRONT:typescript)
 - 🌱 I’m currently learning Algorithms/DS, C++ and JS.
 - 👯 I’m looking to collaborate with other developers.
-- ⚡ Hobbies: I love sketching figures, writing and reading dark fantasy novels.
+- ⚡ Hobbies: I love sketching figures, writing and reading dark fantasy novels (currently reading: The Lies of Locke Lamora).
 - 🤸‍♂️ Fun activities : I like karaoke, playing challenging games (poke:Elden ring)
 
 <!--
