@@ -8,6 +8,8 @@
 - 🤸‍♂️ Fun activities : I am currently playing Elden Ring (10 hours spent so far)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teaNoPot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## My Statistics
 
@@ -23,6 +25,3 @@
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=teaNoPot&custom_title=TeaNoPot's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://https://abdel-portfolio.netlify.app/)
 
 
-## My Top used languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teaNoPot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
