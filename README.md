@@ -1,5 +1,7 @@
 ### Hi there, I'm Abdel - aka [teaNoPot] 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teaNoPot&theme=gruvbox&layout=compact&hide_border=true" width="400">
+
 ## I'm a Developer, Writer and AI enthusiast!
 - 📫 I’m currently working as FullStack Dev (BACK:java, FRONT:typescript)
 - 🌱 I’m currently learning Algorithms/DS, C++ and JS.
@@ -8,7 +10,6 @@
 - 🤸‍♂️ Fun activities : I am currently playing Elden Ring (10 hours spent so far)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teaNoPot&theme=gruvbox&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My Statistics
