@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Algorithms/DS, C++ and JS.
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Hobbies: I love sketching figures, writing and reading dark fantasy novels (currently reading: The Lies of Locke Lamora).
-- 🤸‍♂️ Fun activities : I am currently playing Elden rings (10 hours spent so far)
+- 🤸‍♂️ Fun activities : I am currently playing Elden Ring (10 hours spent so far)
 
 <!--
 **teaNoPot/teaNoPot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
