@@ -7,17 +7,18 @@
 - ⚡ Hobbies: I love sketching figures, writing and reading dark fantasy novels (currently reading: The Lies of Locke Lamora).
 - 🤸‍♂️ Fun activities : I am currently playing Elden Ring (10 hours spent so far)
 
-<!--
-**teaNoPot/teaNoPot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://https://abdel-portfolio.netlify.app/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=teaNoPot&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=teaNoPot&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=teaNoPot&custom_title=TeaNoPot's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://https://abdel-portfolio.netlify.app/)
+
