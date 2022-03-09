@@ -22,7 +22,3 @@
   </a>
 </p>
 <br>
-
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=teaNoPot&custom_title=TeaNoPot's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://https://abdel-portfolio.netlify.app/)
-
-
