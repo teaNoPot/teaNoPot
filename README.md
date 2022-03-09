@@ -10,8 +10,7 @@
 - ⚡ Hobbies: I love sketching figures, writing and reading dark fantasy novels (currently reading: The Lies of Locke Lamora).
 - 🤸‍♂️ Fun activities : I am currently playing Elden Ring (10 hours spent so far)
 
-
-
+</br>
 
 ## My Statistics
 
