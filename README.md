@@ -1,8 +1,9 @@
 ### Hi there, I'm Abdel - aka [teaNoPot] 👋
 
+## I'm a Developer, Writer and AI enthusiast!
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teaNoPot&theme=gruvbox&layout=compact&hide_border=true" width="400">
 
-## I'm a Developer, Writer and AI enthusiast!
 - 📫 I’m currently working as FullStack Dev (BACK:java, FRONT:typescript)
 - 🌱 I’m currently learning Algorithms/DS, C++ and JS.
 - 👯 I’m looking to collaborate with other developers.
