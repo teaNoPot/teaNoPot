@@ -8,7 +8,7 @@
 - 🤸‍♂️ Fun activities : I am currently playing Elden Ring (10 hours spent so far)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teaNoPot&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teaNoPot&theme=gruvbox&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My Statistics
