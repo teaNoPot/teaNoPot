@@ -16,7 +16,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://https://abdel-portfolio.netlify.app/">
+  <a href="https://abdel-portfolio.netlify.app/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=teaNoPot&show_icons=true&theme=gruvbox&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=teaNoPot&theme=gruvbox&hide_border=true" />
   </a>
