@@ -1,24 +1,14 @@
-### Hi there, I'm Abdel - aka [teaNoPot] 👋
+I code by day and dream by night,
+Flutter's my tool, and it feels just right,
+I tinker with Raspberry Pi,
+And deep learning's my guilty pleasure, oh my!
 
-## I'm a Developer, Writer and AI enthusiast!
- 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teaNoPot&theme=gruvbox&layout=compact&hide_border=true" width="400">
- 
-- 📫 I’m currently working as FullStack Dev (BACK:java, FRONT:typescript)
-- 🌱 I’m currently learning Algorithms/DS, C++ and JS.
-- 👯 I’m looking to collaborate with other developers.
-- ⚡ Hobbies: I love sketching figures, writing and reading dark fantasy novels (currently reading: The Lies of Locke Lamora).
-- 🤸‍♂️ Fun activities : I am currently playing Elden Ring (20 hours spent so far, my current speedrun any% PB is 47:38)
+I'm a game dev, a math nerd too,
+I'll hack for good, not to do mischief,
+My memes are strong, my dad jokes are too,
+I'll make you laugh and make things new.
 
-</br>
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://abdel-portfolio.netlify.app/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=teaNoPot&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=teaNoPot&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
+So come and take a look at my repos,
+You'll find some fun, some serious pros,
+Let's work together, let's make something great,
+Let's change the world, let's seal our fate.
