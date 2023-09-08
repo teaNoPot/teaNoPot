@@ -1,18 +1,11 @@
-I code by day and dream by night,\
-Flutter's my tool, and it feels just right,\
-I tinker with Raspberry Pi,\
-And deep learning's my guilty pleasure, oh my!
+👋 Hi, I'm [Insert My Name, or something]!
 
+👨‍💻 Experienced Developer | 🌍 Based in Paris
 
+📚 My hobbies include reading books, writing, and strumming my guitar strings. Guitar music has become not just a passion but a language of emotions for me.
 
-I'm a game dev, a math nerd too,\
-I'll hack for good, not to do mischief,\
-My memes are strong, my dad jokes are too,\
-I'll make you laugh and make things new.
+⚔️ I'm intrigued by the art of fencing, the precision of drawing, and the thrill of gaming. These interests keep my creativity flowing.
 
+🚀 I aspire to leave a positive mark on humanity through my work, striving to create services that guide people toward better choices and a brighter future.
 
-
-So come and take a look at my repos,\
-You'll find some fun, some serious pros,\
-Let's work together, let's make something great,\
-Let's change the world, let's seal our fate.
+🧠 Let's dive deep into discussions about the inner workings of the human brain, behavior analysis, and all things AI-related. I'm passionate about understanding the intricacies of our minds and the technologies that drive our world.
