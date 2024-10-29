@@ -1,6 +1,6 @@
-👋 Hi, I'm [Insert My Name, or something]!
+👋 Hi, I'm ro333
 
-👨‍💻 Experienced Developer | 🌍 Based in Paris
+👨‍💻 ALL STACKS Developer | 🌍 Based in Paris
 
 📚 My hobbies include reading books, writing, and strumming my guitar strings. Guitar music has become not just a passion but a language of emotions for me.
 
