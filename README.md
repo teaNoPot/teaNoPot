@@ -1,6 +1,6 @@
 👋 Hi, I'm ro333
 
-👨‍💻 ALL STACKS Developer | 🌍 Based in Paris
+👨‍💻 Cloud/Devops/Platform/WhateverBuzzWordNext Engineer | 🌍 Based in Paris
 
 📚 My hobbies include reading books, writing, and strumming my guitar strings. Guitar music has become not just a passion but a language of emotions for me.
 
